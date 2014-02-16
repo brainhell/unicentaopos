@@ -36,5 +36,10 @@ http://www.unicenta.com or http://www.sourceforge.net/projects/unicentaopos/
 Visit uniCenta's Sourceforge Community Forums:
 http://www.sourceforge.net/projects/unicentaopos
 
+== uniCenta oPOS 3.56 CHANGES ==
+Added scale device support for AND EK-series plus cleanup locales and reports.
+
+
+
 
 
